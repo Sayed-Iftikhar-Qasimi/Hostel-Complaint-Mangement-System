@@ -6,7 +6,7 @@ This project is developed as a semester project for Programming Fundamentals.
 To manage hostel complaints and analyze complaint status efficiently.
 
 ## Tools Used
-- C++
+- HTML and CSS
 - MS Access
 - MS Excel
 - GitHub
